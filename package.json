@@ -1,0 +1,23 @@
+{
+  "name": "gng",
+  "version": "1.0.2",
+  "description": "gng is the first guid that is not guid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bretcolloff/2d5baaf7-66aa-4f81-82e5-1bf617f113c8.git"
+  },
+  "keywords": [
+    "gng",
+    "guid"
+  ],
+  "author": "2d5baaf7-66aa-4f81-82e5-1bf617f113c8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bretcolloff/2d5baaf7-66aa-4f81-82e5-1bf617f113c8/issues"
+  },
+  "homepage": "https://github.com/bretcolloff/2d5baaf7-66aa-4f81-82e5-1bf617f113c8#readme"
+}
